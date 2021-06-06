@@ -6,7 +6,7 @@
 <h1>My first PHP page</h1>
 
 
-echo "Hello World!";
+<h2> "Hello World!...."</h2>
 
 
 </body>
