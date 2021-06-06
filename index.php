@@ -1,14 +1,13 @@
 <?php
-echo "<!DOCTYPE html>
-<html>
-<body>
+echo "<html>";
+echo "<body>";
 
-<h1>My first PHP page</h1>
-
-
-<h2> "Hello World!...."</h2>
+echo "<h1>My first PHP page</h1>";
 
 
-</body>
-</html>";
+echo "<h2> Hello World!....</h2>";
+
+
+echo "</body>";
+echo "</html>";
 ?>
