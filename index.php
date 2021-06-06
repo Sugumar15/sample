@@ -1,5 +1,5 @@
 <?php
-<!DOCTYPE html>
+echo "<!DOCTYPE html>
 <html>
 <body>
 
@@ -10,5 +10,5 @@
 
 
 </body>
-</html>
+</html>";
 ?>
