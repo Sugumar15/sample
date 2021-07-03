@@ -63,7 +63,7 @@ may your birthday be filled with laughter.......
 </div>
 <div>
 <center>
-<img src="5.jpg" alt="Girl in a jacket" width="400" height="450">
+<img src="5.JPG" alt="Girl in a jacket" width="400" height="450">
 </center>
 </div>
 <marquee width="100%" direction="left" height="25px">
