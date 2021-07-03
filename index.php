@@ -67,7 +67,7 @@ may your birthday be filled with laughter.......
 </center>
 </div>
 <marquee width="100%" direction="left" height="25px">
-  Once Again Happy BORNDAY to MATHINI,<B><I>TREAT MUKKIYAM MADAM</I></B>
+  Once Again Happy BORNDAY to MATHINI,<b><i>TREAT MUKKIYAM MADAM</i></b>
 </marquee>
 </div>
 </body>
