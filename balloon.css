@@ -31,7 +31,7 @@ left: 40%;
 	100%{
 		top: 100%;
 	}-->
-	from {top: 100%;}
+	from {top: 300%;}
   to {top: 0%;}
 }
 .bal:nth-child(2){
