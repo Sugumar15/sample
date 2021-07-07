@@ -2,6 +2,7 @@
 ?>
 <html>
 <head>
+  <link rel="stylesheet" type="text/css" href="balloon.css">
 <style>
 body {
   background-color: #EEFBFB;
@@ -12,6 +13,18 @@ img {
 </style>
 </head>
 <body>
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+<div class="bal"></div>
+<div >
 <div >
 <marquee width="100%" direction="right" height="25px">
 Happy BORNDAY to MATHINI
