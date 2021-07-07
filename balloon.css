@@ -25,12 +25,14 @@ top: 100%;
 left: 40%;
 }
 @keyframes move{
-	0%{
+	<!--0%{
 		top: 100%;
 	}
 	100%{
 		top: 100%;
-	}
+	}-->
+	from {top: 600px;}
+  to {top: 0%;}
 }
 .bal:nth-child(2){
 left: 20%;
