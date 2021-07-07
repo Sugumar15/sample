@@ -26,7 +26,7 @@ left: 40%;
 }
 @keyframes move{
 	
-	from {top: 300%;}
+	from {top: 1000%;}
   to {top: 0%;}
 }
 .bal:nth-child(2){
