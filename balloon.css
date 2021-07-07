@@ -25,7 +25,7 @@ top: 100%;
 left: 40%;
 }
 @keyframes move{
-	from {top: 100%;}
+	from {top: 170%;}
 	
 	to {top: 0%;}
 	
