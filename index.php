@@ -5,7 +5,7 @@
 <p> 
 <center>
 
-<div style="width:500; height: 800; background-color: #460eed">
+<div style="width:500; height: 1500; background-color: #460eed">
 <h1 style='color:white;'>
 Happy Diwali to PAVI
 </h1>
