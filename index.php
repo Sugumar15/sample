@@ -1,87 +1,28 @@
-<?php
-?>
 <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="balloon.css">
-<style>
-body {
-  background-color: #EEFBFB;
-}
-img {
-  border: 5px solid #555;
-}
-</style>
-</head>
-<body>
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
+<body style="background-image: url('background.gif');">
 
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
-<div class="bal"></div>
-<div >
-<div >
-<marquee width="100%" direction="right" height="25px">
-Happy BORNDAY to MATHINI
-</marquee>
-</div>
-<div style='background-color: #12232E;'><center>
+<div>
+<p> 
+<center>
+
+<div style="width:500px; height: 700px; background-color: #460eed">
 <h1 style='color:white;'>
-PAVITHRA[MATHINI] BirthDay 
-<br>celebrations....
-</h1></center></div>
-<div>
-<center>
- Dear pavithra mathini,<br>
- Wish you a great happy birthday and may all your dreams come true live long<br>
- <h1>
-Happy BirthDay PAVI....Have a great year ahead
+Happy Diwali to PAVI
 </h1>
-<!---<br>
-<h1>
-may this day be as special as you are...
-</h1>
-<br>
-<h1>
-may your birthday be filled with laughter.......
-</h1>-->
-</center>
-</div>.
-<div >
+
 <center>
-<img src="3.png" alt="Girl" width="400" height="400">
+<img class="center" src="happy-diwali.png" width="200" alt="Happy Diwali greating wishes">
 </center>
+<h2 style='color:white;'>Wish <br>you<br> Happy<br> Diwali</h2>
+<div></div>
+<img class="center" src="posvanam.gif" width="100" alt="Happy Diwali greating wishes"> 
+<img src="sweet.gif" width="100" alt="Happy Diwali greating wishes">
+<img class="center" src="saram.gif" width="100" alt="Happy Diwali greating wishes">
+
 </div>
-<div>
-</div>
-<div>
-<center>
-<img src="1.png" alt="Girl" width="400" height="400">
 </center>
-</div>
-<div>
-<center>
-<img src="2.png" alt="Girl" width="400" height="400">
-</center>
-</div>
-<div>
-<center>
-<img src="4.jpg" alt="Girl" width="400" height="500">
-</center>
-</div>
-<div>
-<center>
-<img src="5.JPG" alt="Girl" width="400" height="450">
-</center>
-</div>
-<marquee width="100%" direction="left" height="25px">
-  Once Again Happy BORNDAY to MATHINI,<b><i>TREAT MUKKIYAM MADAM</i></b>
-</marquee>
+<br> 
+</p>
 </div>
 </body>
 </html>
